@@ -17,8 +17,8 @@ if (args.length < 2 || args[0] !== '--path') {
 }
 
 const repoPath = args[1];
-if (!fs.existsSync(repoPath)) {
-    console.error(`The specified path does not exist: ${repoPath}`);
+if (!fs.existsSync(repoPath) || !fs.statSync(repoPath).isDirectory()) {
+    console.error(`The specified path does not exist or is not a directory: ${repoPath}`);
     process.exit(1);
 }
 
