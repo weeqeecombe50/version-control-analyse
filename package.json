@@ -1,0 +1,18 @@
+{
+  "name": "version-control-analyse",
+  "version": "1.0.0",
+  "description": "Ein Tool zur Analyse von Git-Repositories",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhrBenutzername/version-control-analyse.git"
+  },
+  "keywords": ["git", "analyse", "version control"],
+  "author": "Ihr Name",
+  "license": "MIT"
+}
