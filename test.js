@@ -3,7 +3,7 @@ const { analyzeRepository } = require('./index');
 
 describe('Version Control Analyze Tests', function() {
     it('should analyze a non-empty repository', function() {
-        const result = analyzeRepository('/pfad/zum/test-repo'); // Dummy-Path
+        const result = analyzeRepository('/path/to/test-repo'); // Updated path
         assert.notStrictEqual(result, null);
     });
 });
