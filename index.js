@@ -12,7 +12,7 @@ function analyzeRepository(repoPath) {
 // Process command-line arguments
 const args = process.argv.slice(2);
 if (args.length < 2 || args[0] !== '--path') {
-    console.error('Usage: node index.js --path /path/to/repository');
+    console.error('Usage: node index.js --path <repository_path>');
     process.exit(1);
 }
 
