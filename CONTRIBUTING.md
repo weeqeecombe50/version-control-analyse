@@ -3,7 +3,7 @@
 Danke, dass Sie sich für die Mitwirkung an diesem Projekt interessieren! Hier sind einige Möglichkeiten, wie Sie helfen können:
 
 ## Contributor
-- Fühlen Sie sich frei, Bugs zu melden oder Verbesserungsvorschläge abzubgeben.
+- Fühlen Sie sich frei, Bugs zu melden oder Verbesserungsvorschläge abzugeben.
 - Erstellen Sie Pull-Requests für neue Funktionen oder zur Behebung von Fehlern.
 
 ## Code Standards
