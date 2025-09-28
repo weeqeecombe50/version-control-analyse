@@ -11,7 +11,7 @@ Danke, dass Sie sich für die Mitwirkung an diesem Projekt interessieren! Hier s
 - Bitte testen Sie Änderungen lokal, bevor Sie einen Pull-Request erstellen.
 
 ## Berichterstattung von Problemen
-- Stellen Sie sicher, dass Sie die Schritte zur Reproduktion eines Fehlers klar darstellen.
-- Geben Sie Informationen zu Ihrem System und der Softwareversion an.
+- Stellen Sie sicher, dass Sie die Schritte zur Reproduktion eines Fehlers klar darstellen und diese in Ihrem Bericht einfügen.
+- Geben Sie Informationen zu Ihrem System und der Softwareversion an, um die Nachverfolgbarkeit zu verbessern.
 
 Vielen Dank für Ihre Unterstützung!
