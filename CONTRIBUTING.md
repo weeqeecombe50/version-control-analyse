@@ -9,6 +9,7 @@ Danke, dass Sie sich für die Mitwirkung an diesem Projekt interessieren! Hier s
 ## Code Standards
 - Achten Sie darauf, klaren und wartbaren Code zu schreiben.
 - Bitte testen Sie Änderungen lokal, bevor Sie einen Pull-Request erstellen.
+- Dokumentieren Sie Ihre Änderungen sorgfältig, um die Zusammenarbeit zu erleichtern.
 
 ## Berichterstattung von Problemen
 - Stellen Sie sicher, dass Sie die Schritte zur Reproduktion eines Fehlers klar darstellen und diese in Ihrem Bericht einfügen.
